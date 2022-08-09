@@ -24,6 +24,8 @@ var businessHrs = [
   "5 PM",
 ];
 
+// 
+
 for (i = 0; i < businessHrs.length; i++) {
   console.log(businessHrs[i]);
 

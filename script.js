@@ -10,6 +10,7 @@ setInterval(setTime, 1000);
 
 var dateContainer = document.querySelector(".container");
 
+// business hours
 var businessHrs = [
   "9 AM",
   "10 AM",

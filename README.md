@@ -8,7 +8,7 @@ this application allows you to plan out your day. You can write your schedule fo
 
 
 # github repo:
-ivyhermosa/workday-sched.git
+
 
 
 # deployed URL:

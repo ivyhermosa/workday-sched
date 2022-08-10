@@ -14,6 +14,7 @@ https://github.com/ivyhermosa/workday-sched
 
 # deployed URL:
 
+https://ivyhermosa.github.io/workday-sched/
 
 
 # screenshot:
